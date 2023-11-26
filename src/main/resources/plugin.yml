@@ -1,0 +1,3 @@
+name: THungerGames
+version: '${project.version}'
+main: de.tiiita.thungergames.THungerGames
